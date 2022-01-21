@@ -123,10 +123,10 @@ require (
 
 replace (
 	// Our cosmos-sdk branch is:  https://github.com/osmosis-labs/cosmos-sdk  v0.44.3x-osmo-v5
-	github.com/cosmos/cosmos-sdk => github.com/joeabbey/cosmos-sdk v0.44.4-0.20220121143010-821ea6fe9917
+	github.com/cosmos/cosmos-sdk => github.com/joeabbey/cosmos-sdk v0.44.4-0.20220121152514-4463c1390589
 	github.com/cosmos/ibc-go/v2 => github.com/osmosis-labs/ibc-go/v2 v2.0.2-osmo
 	github.com/gogo/protobuf => github.com/regen-network/protobuf v1.3.3-alpha.regen.1
 	github.com/tecbot/gorocksdb => github.com/cosmos/gorocksdb v1.2.0
-	github.com/tendermint/tendermint => github.com/joeabbey/tendermint v0.34.12-jabbey
+	github.com/tendermint/tendermint => github.com/joeabbey/tendermint v0.34.12-jabbey.3
 	google.golang.org/grpc => google.golang.org/grpc v1.33.2
 )

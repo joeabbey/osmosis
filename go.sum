@@ -543,10 +543,10 @@ github.com/jmespath/go-jmespath v0.4.0/go.mod h1:T8mJZnbsbmF+m6zOOFylbeCJqk5+pHW
 github.com/jmespath/go-jmespath/internal/testify v1.5.1/go.mod h1:L3OGu8Wl2/fWfCI6z80xFu9LTZmf1ZRjMHUOPmWr69U=
 github.com/jmhodges/levigo v1.0.0 h1:q5EC36kV79HWeTBWsod3mG11EgStG3qArTKcvlksN1U=
 github.com/jmhodges/levigo v1.0.0/go.mod h1:Q6Qx+uH3RAqyK4rFQroq9RL7mdkABMcfhEI+nNuzMJQ=
-github.com/joeabbey/cosmos-sdk v0.44.4-0.20220121143010-821ea6fe9917 h1:e4ziX4Y+UNxYUS+ZXFcOzjpe3uLmkwJYdylzDdOIw9U=
-github.com/joeabbey/cosmos-sdk v0.44.4-0.20220121143010-821ea6fe9917/go.mod h1:+lWuJcV/Ve3/Et+X4TUk2SgRMwN9T1Snjzg1CtTlwUk=
-github.com/joeabbey/tendermint v0.34.12-jabbey h1:rJOPqGB7IUrOMla4zyjZCRDS+V12es/bYuuer+y9irY=
-github.com/joeabbey/tendermint v0.34.12-jabbey/go.mod h1:aeHL7alPh4uTBIJQ8mgFEE8VwJLXI1VD3rVOmH2Mcy0=
+github.com/joeabbey/cosmos-sdk v0.44.4-0.20220121152514-4463c1390589 h1:E1UhKDO/ZHToBHYNhRXGYMmn/DThiQjXRhVKwma377o=
+github.com/joeabbey/cosmos-sdk v0.44.4-0.20220121152514-4463c1390589/go.mod h1:Bb1h1gh4RDuHWBcZOD5gyJAxvuaxkhXKN+1Tn/Fn2Ng=
+github.com/joeabbey/tendermint v0.34.12-jabbey.3 h1:PvFEVp8g+bAii1DE3Lr2EkAUdQqJnSFl7srsGHCnfiw=
+github.com/joeabbey/tendermint v0.34.12-jabbey.3/go.mod h1:aeHL7alPh4uTBIJQ8mgFEE8VwJLXI1VD3rVOmH2Mcy0=
 github.com/jonboulle/clockwork v0.1.0/go.mod h1:Ii8DK3G1RaLaWxj9trq07+26W01tbo22gdxWY5EU2bo=
 github.com/jpillora/backoff v1.0.0/go.mod h1:J/6gKK9jxlEcS3zixgDgUAsiuZ7yrSoa/FX5e0EB2j4=
 github.com/jrick/logrotate v1.0.0/go.mod h1:LNinyqDIJnpAur+b8yyulnQw/wDuN1+BYKlTRt3OuAQ=
